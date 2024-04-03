@@ -28,4 +28,25 @@
     justify-content: center;
     padding: 24px 0;
 }
-.
+.escola-div-conteudo{
+    width:35;
+}
+.escola-titulo{
+    padding: 24px 0;
+
+}
+.estudante{
+padding: 24px 0;
+}
+.etudante-imagem{
+    width: 120px 0;
+}
+.estudante-icone{
+    width:24px;
+    padding: 4px 8px;
+}
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
+    
